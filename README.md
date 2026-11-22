@@ -1,5 +1,7 @@
 # Awesome Finance MCP & Skills
 
+Chain.Love is an open-source directory for comparing RPC providers, indexers, explorers, bridges, wallets and other Web3 services across networks: https://chain.love/
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of **MCP servers** and **AI skills** for finance, trading, and crypto agents.
